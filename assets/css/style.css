@@ -54,7 +54,7 @@ h1 {
 }*/
 
 #winOrLose {
-	color: black;
+	color: rgb(223, 203, 203);
 }
 
 .total, .scores, .directions {
